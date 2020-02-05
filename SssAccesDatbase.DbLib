@@ -1,17 +1,17 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Z:\SssADintLib\SssAccesDatbase.accdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=Z:\SSSADDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabaseType=Microsoft Access
 LibraryDatabasePath=SssAccesDatbase.accdb
 DatabasePathRelative=1
 TopPanelCollapsed=0
@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Integrated circuits
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=372|Part Number0=124|Library Ref0=124|Library Path0=137|Footprint Path0=98|Footprint Ref0=134|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=669|Price$0=53|Digi-Key Part Number0=139|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -137,9 +134,6 @@ TableName=Integrated circuits
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=625|Part Number0=127|Library Ref0=127|Library Path0=137|Footprint Path0=147|Footprint Ref0=157|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=677|Price$0=53|Digi-Key Part Number0=138|Note0=48|Manufacturer Part Number0=160|Package0=75
 [Table20]
 SchemaName=
 TableName=LED
