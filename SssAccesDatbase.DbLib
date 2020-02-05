@@ -26,6 +26,9 @@ TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=372|Part Number0=124|Library Ref0=124|Library Path0=137|Footprint Path0=98|Footprint Ref0=134|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=669|Price$0=53|Digi-Key Part Number0=139|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table2]
 SchemaName=
 TableName=Antenne
