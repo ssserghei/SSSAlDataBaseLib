@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=Z:\SSSADDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistors
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=371|Part Number0=126|Library Ref0=126|Library Path0=137|Footprint Path0=98|Footprint Ref0=136|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=669|Price$0=53|Digi-Key Part Number0=140|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -191,9 +188,6 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=94|Library Ref0=91|Library Path0=117|Footprint Path0=122|Footprint Ref0=149|Footprint Ref 20=118|Footprint Path 20=109|Description0=82|HelpURL0=568|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table29]
 SchemaName=
 TableName=Sensors
