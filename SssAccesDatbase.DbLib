@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=Z:\SSSADDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSS_Simpals\SSSADDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -26,6 +26,9 @@ TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=371|Part Number0=126|Library Ref0=126|Library Path0=137|Footprint Path0=98|Footprint Ref0=136|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=669|Price$0=53|Digi-Key Part Number0=140|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -98,6 +101,9 @@ TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=107|Description0=383|Library Ref0=186|Library Path0=83|Footprint Ref0=92|Footprint Path0=117|Footprint Ref 20=101|Footprint Path 20=117|HelpURL0=651|Digi-Key Part Number0=153|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=93
 [Table14]
 SchemaName=
 TableName=Display
