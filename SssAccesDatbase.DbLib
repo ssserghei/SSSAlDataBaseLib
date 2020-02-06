@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=Z:\SSSADDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Diodes
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -98,6 +98,9 @@ TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=108|Description0=384|Library Ref0=186|Library Path0=83|Footprint Ref0=92|Footprint Path0=117|Footprint Ref 20=101|Footprint Path 20=117|HelpURL0=648|Digi-Key Part Number0=152|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=93
 [Table14]
 SchemaName=
 TableName=Display
@@ -134,6 +137,9 @@ TableName=Integrated circuits
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=625|Part Number0=127|Library Ref0=127|Library Path0=137|Footprint Path0=147|Footprint Ref0=157|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=677|Price$0=53|Digi-Key Part Number0=145|Note0=48|Manufacturer Part Number0=160|Package0=75
 [Table20]
 SchemaName=
 TableName=LED
