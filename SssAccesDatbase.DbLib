@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Switch
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -137,6 +137,9 @@ TableName=Integrated circuits
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=625|Part Number0=127|Library Ref0=127|Library Path0=137|Footprint Path0=147|Footprint Ref0=157|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=832|Price$0=53|Digi-Key Part Number0=145|Note0=48|Manufacturer Part Number0=160|Package0=75|Mouser Part Number0=241
 [Table20]
 SchemaName=
 TableName=LED
@@ -185,6 +188,9 @@ TableName=Relay
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=573|Part Number0=113|Library Ref0=113|Library Path0=83|Footprint Path0=98|Footprint Ref0=113|Footprint Ref20=98|Footprint Path20=104|HelpURL0=599|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160
 [Table28]
 SchemaName=
 TableName=Resistors
@@ -203,6 +209,9 @@ TableName=Switch
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=103|Library Ref0=113|Library Path0=97|Footprint Path0=162|Footprint Ref0=103|Description0=336|HelpURL0=588|Digi-Key Part Number0=150|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65
 [Table31]
 SchemaName=
 TableName=Terminal Block
