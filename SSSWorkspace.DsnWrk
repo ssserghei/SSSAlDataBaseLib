@@ -1,4 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=..\..\YandexDisk\SSS_AltiumWork\Sss Projects Altium\DC-DC LM2576\PCB_Project.PrjPcb
+ProjectPath=SSSADDataBaseLib.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Snack32\Snack32.PrjPcb
