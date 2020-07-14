@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=T:\60-project\00-GitHub\AlDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSADDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +12,7 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access 2007
-LibraryDatabasePath=T:\60-project\00-GitHub\AlDataBaseLib\SssAccesDatbase.accdb
+LibraryDatabasePath=D:\SSSADDataBaseLib\SssAccesDatbase.accdb
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
