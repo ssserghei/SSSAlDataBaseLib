@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSADDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,14 +12,14 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access 2007
-LibraryDatabasePath=D:\SSSADDataBaseLib\SssAccesDatbase.accdb
+LibraryDatabasePath=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Diodes
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -104,6 +104,9 @@ TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=116|Description0=383|Library Ref0=186|Library Path0=83|Footprint Ref0=121|Footprint Path0=117|Footprint Ref 20=101|Footprint Path 20=117|HelpURL0=749|Digi-Key Part Number0=152|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=93|Mouser Part Number0=129|Comment0=72
 [Table15]
 SchemaName=
 TableName=Display
