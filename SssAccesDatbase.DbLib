@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Memory
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -164,9 +164,6 @@ TableName=Memory
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=388|Part Number0=87|Library Ref0=87|Library Path0=137|Footprint Path0=98|Footprint Ref0=92|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=574|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=171
 [Table25]
 SchemaName=
 TableName=Microcontrollers
