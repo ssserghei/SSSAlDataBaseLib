@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Transistor
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -236,9 +236,6 @@ TableName=Transistor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=114|Library Ref0=127|Library Path0=205|Footprint Path0=117|Footprint Ref0=205|Description0=683|Footprint Ref20=98|Footprint Path20=104|HelpURL0=758|Digi-Key Part Number0=147|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=97|Footprint Path 20=117|Footprint Ref 20=101
 [Table37]
 SchemaName=
 TableName=Tube Vacuum
@@ -792,42 +789,38 @@ Options=FieldName=Transistor.Footprint Ref|TableNameOnly=Transistor|FieldNameOnl
 [FieldMap270]
 Options=FieldName=Transistor.Description|TableNameOnly=Transistor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap271]
-Options=FieldName=Transistor.Footprint Ref2|TableNameOnly=Transistor|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap272]
-Options=FieldName=Transistor.Footprint Path2|TableNameOnly=Transistor|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap273]
 Options=FieldName=Transistor.Footprint Path 2|TableNameOnly=Transistor|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap274]
+[FieldMap272]
 Options=FieldName=Transistor.Footprint Ref 2|TableNameOnly=Transistor|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap275]
+[FieldMap273]
 Options=FieldName=Tube Vacuum.Description|TableNameOnly=Tube Vacuum|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap276]
+[FieldMap274]
 Options=FieldName=Tube Vacuum.Part Number|TableNameOnly=Tube Vacuum|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap277]
+[FieldMap275]
 Options=FieldName=Tube Vacuum.Library Ref|TableNameOnly=Tube Vacuum|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap278]
+[FieldMap276]
 Options=FieldName=Tube Vacuum.Library Path|TableNameOnly=Tube Vacuum|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap279]
+[FieldMap277]
 Options=FieldName=Tube Vacuum.Footprint Path|TableNameOnly=Tube Vacuum|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap280]
+[FieldMap278]
 Options=FieldName=Tube Vacuum.Footprint Ref|TableNameOnly=Tube Vacuum|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap281]
+[FieldMap279]
 Options=FieldName=Tube Vacuum.Footprint Ref 2|TableNameOnly=Tube Vacuum|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap282]
+[FieldMap280]
 Options=FieldName=Tube Vacuum.Footprint Path 2|TableNameOnly=Tube Vacuum|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap283]
+[FieldMap281]
 Options=FieldName=Varistors.Description|TableNameOnly=Varistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap284]
+[FieldMap282]
 Options=FieldName=Varistors.Part Number|TableNameOnly=Varistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap285]
+[FieldMap283]
 Options=FieldName=Varistors.Library Ref|TableNameOnly=Varistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap286]
+[FieldMap284]
 Options=FieldName=Varistors.Library Path|TableNameOnly=Varistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap287]
+[FieldMap285]
 Options=FieldName=Varistors.Footprint Path|TableNameOnly=Varistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap288]
+[FieldMap286]
 Options=FieldName=Varistors.Footprint Ref|TableNameOnly=Varistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap289]
+[FieldMap287]
 Options=FieldName=Varistors.Footprint Ref2|TableNameOnly=Varistors|FieldNameOnly=Footprint Ref2|FieldType=1|ParameterName=[Footprint Ref2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap290]
+[FieldMap288]
 Options=FieldName=Varistors.Footprint Path2|TableNameOnly=Varistors|FieldNameOnly=Footprint Path2|FieldType=1|ParameterName=[Footprint Path2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
