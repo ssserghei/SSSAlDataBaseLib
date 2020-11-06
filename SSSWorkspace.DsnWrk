@@ -3,4 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=SSSADDataBaseLib.PrjPcb
 [Project2]
-ProjectPath=..\..\..\Snack32\Snack32.PrjPcb
+ProjectPath=..\GitHub\Altium\uc3843 flyback converter\uc3843 flyback converter.PrjPcb
+[Project3]
+ProjectPath=..\SSS_Simpals\GLSmallProjects\Post_Terminal\Post_Terminal.PrjPcb
