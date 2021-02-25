@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Integrated circuits
+LastFocusedTable=DCDC
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -92,12 +92,18 @@ TableName=DCDC
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=599|Part Number0=145|Library Ref0=151|Library Path0=137|Footprint Path0=98|Footprint Ref0=128|Footprint Ref 20=106|Footprint Path 20=107|HelpURL0=857|Price$0=53|Digi-Key Part Number0=151|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=131|Comment0=98|HelpURL20=73
 [Table13]
 SchemaName=
 TableName=DepozitComel
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=285|Library Ref0=584|Note0=48|Code_JEDEC0=86
 [Table14]
 SchemaName=
 TableName=Diodes
@@ -142,7 +148,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=625|Part Number0=129|Library Ref0=129|Library Path0=137|Footprint Path0=147|Footprint Ref0=173|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=916|Price$0=53|Digi-Key Part Number0=145|Note0=48|Manufacturer Part Number0=160|Package0=75|Mouser Part Number0=241|Comment0=72|HelpURL20=77
+BrowserOrder_Visible=Description0=625|Part Number0=136|Library Ref0=129|Library Path0=137|Footprint Path0=147|Footprint Ref0=173|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=916|Price$0=53|Digi-Key Part Number0=145|Note0=48|Manufacturer Part Number0=160|Package0=75|Mouser Part Number0=241|Comment0=72|HelpURL20=77
 [Table21]
 SchemaName=
 TableName=LED
