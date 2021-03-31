@@ -236,18 +236,12 @@ TableName=Transistor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=114|Library Ref0=126|Library Path0=205|Footprint Path0=117|Footprint Ref0=205|Description0=681|Footprint Path 20=117|Footprint Ref 20=101|HelpURL0=758|Digi-Key Part Number0=146|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=97
 [Table37]
 SchemaName=
 TableName=Tube Vacuum
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=82|Part Number0=87|Library Ref0=77|Library Path0=117|Footprint Path0=117|Footprint Ref0=92|Footprint Ref 20=101|Footprint Path 20=117|HelpURL0=331|Price$0=53|Note0=307|Manufacturer Part Number0=160|Package0=65|Digi-Key Part Number0=132|Mouser Part Number0=129|Comment0=72
 [Table38]
 SchemaName=
 TableName=Varistors
