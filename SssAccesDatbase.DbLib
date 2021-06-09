@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Relay
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=419|Part Number0=124|Library Ref0=124|Library Path0=137|Footprint Path0=98|Footprint Ref0=134|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=882|Price$0=53|Digi-Key Part Number0=139|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=136|Comment0=72|HelpURL20=73
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -203,6 +200,9 @@ TableName=Relay
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=573|Part Number0=113|Library Ref0=113|Library Path0=83|Footprint Path0=98|Footprint Ref0=113|Footprint Ref20=98|Footprint Path20=104|HelpURL0=637|Digi-Key Part Number0=148|Price$0=53|Note0=48|Manufacturer Part Number0=160|Mouser Part Number0=129|Comment0=72|Package0=65
 [Table31]
 SchemaName=
 TableName=Resistors
@@ -221,6 +221,9 @@ TableName=Switch
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=103|Library Ref0=113|Library Path0=97|Footprint Path0=162|Footprint Ref0=103|Description0=336|HelpURL0=588|Digi-Key Part Number0=150|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72
 [Table34]
 SchemaName=
 TableName=Terminal Block
@@ -245,6 +248,9 @@ TableName=Transformers
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=270|Part Number0=110|Library Ref0=110|Library Path0=110|Footprint Path0=110|Footprint Ref0=98|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=624|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72|Mouser Part Number0=129
 [Table38]
 SchemaName=
 TableName=Tube Vacuum
