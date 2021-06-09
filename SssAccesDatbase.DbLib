@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Conn
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=419|Part Number0=124|Library Ref0=124|Library Path0=137|Footprint Path0=98|Footprint Ref0=134|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=882|Price$0=53|Digi-Key Part Number0=139|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=136|Comment0=72|HelpURL20=73
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -44,9 +47,6 @@ TableName=Buttons
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=512|Part Number0=132|Library Ref0=128|Library Path0=97|Footprint Path0=98|Footprint Ref0=132|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=1171|Digi-Key Part Number0=457|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=132|Comment0=72
 [Table5]
 SchemaName=
 TableName=Capacitors
@@ -59,18 +59,12 @@ TableName=Conn
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=300|Description0=524|Library Ref0=115|Library Path0=103|Footprint Path0=132|Footprint Ref0=178|Footprint Ref 20=132|Footprint Path 20=107|HelpURL0=886|Digi-Key Part Number0=144|Price$0=53|Note0=584|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=182|HelpURL20=452
 [Table7]
 SchemaName=
 TableName=ConnPinSockets127
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=140|Description0=377|Library Ref0=77|Library Path0=103|Footprint Path0=147|Footprint Ref0=140|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=1485|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=123|Mouser Part Number0=129|Comment0=72
 [Table8]
 SchemaName=
 TableName=ConnPinSockets2
