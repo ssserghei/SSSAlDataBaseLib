@@ -2,3 +2,5 @@
 *.ini
 *.Zip
 *.laccdb
+*.LOG
+*.SchDocPreview
