@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Relay
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -32,6 +32,9 @@ TableName=Antenne
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=222|Part Number0=193|Library Ref0=77|Library Path0=88|Footprint Path0=98|Footprint Ref0=152|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=473|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
 [Table3]
 SchemaName=
 TableName=Battery
@@ -200,9 +203,6 @@ TableName=Relay
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=573|Part Number0=113|Library Ref0=113|Library Path0=83|Footprint Path0=98|Footprint Ref0=113|Footprint Ref20=98|Footprint Path20=104|HelpURL0=637|Digi-Key Part Number0=148|Price$0=53|Note0=48|Manufacturer Part Number0=160|Mouser Part Number0=129|Comment0=72|Package0=65
 [Table31]
 SchemaName=
 TableName=Resistors
@@ -221,9 +221,6 @@ TableName=Switch
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=103|Library Ref0=113|Library Path0=97|Footprint Path0=162|Footprint Ref0=103|Description0=336|HelpURL0=588|Digi-Key Part Number0=150|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72
 [Table34]
 SchemaName=
 TableName=Terminal Block
@@ -248,9 +245,6 @@ TableName=Transformers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=270|Part Number0=110|Library Ref0=110|Library Path0=110|Footprint Path0=110|Footprint Ref0=98|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=624|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72|Mouser Part Number0=129
 [Table38]
 SchemaName=
 TableName=Tube Vacuum
