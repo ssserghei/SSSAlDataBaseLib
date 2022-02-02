@@ -1,29 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseLib\SSSAlDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access 2007
-LibraryDatabasePath=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb
+LibraryDatabasePath=D:\SSSAlDataBaseLib\SSSAlDataBaseLib\SssAccesDatbase.accdb
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-<<<<<<< Updated upstream
-LastFocusedTable=Relay
-=======
-LastFocusedTable=DCDC
->>>>>>> Stashed changes
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -96,9 +92,6 @@ TableName=DCDC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=599|Part Number0=145|Library Ref0=151|Library Path0=137|Footprint Path0=98|Footprint Ref0=128|Footprint Ref 20=106|Footprint Path 20=107|HelpURL0=857|Price$0=53|Digi-Key Part Number0=151|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=131|Comment0=98|HelpURL20=73
 [Table13]
 SchemaName=
 TableName=DepozitComel
@@ -177,9 +170,6 @@ TableName=Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=715|Part Number0=127|Library Ref0=183|Library Path0=137|Footprint Path0=98|Footprint Ref0=132|Footprint Ref 20=116|Footprint Path 20=107|HelpURL0=941|Price$0=579|Digi-Key Part Number0=157|Note0=48|Manufacturer Part Number0=160|Package0=77|Mouser Part Number0=129|Comment0=72|HelpURL20=77
 [Table26]
 SchemaName=
 TableName=Miscellaneous
@@ -204,18 +194,12 @@ TableName=Potentiometers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=128|Library Ref0=77|Library Path0=90|Footprint Path0=122|Footprint Ref0=92|Footprint Ref 20=101|Footprint Path 20=107|Description0=350|HelpURL0=678|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=105|Mouser Part Number0=129
 [Table30]
 SchemaName=
 TableName=Relay
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=334|Part Number0=113|Library Ref0=113|Library Path0=83|Footprint Path0=98|Footprint Ref0=113|Footprint Ref20=98|Footprint Path20=104|HelpURL0=599|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Mouser Part Number0=129|Comment0=72|Package0=65
 [Table31]
 SchemaName=
 TableName=Resistors
