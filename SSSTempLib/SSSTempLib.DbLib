@@ -1,0 +1,85 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\radma\OneDrive\Рабочий стол\SSSTempLib\SSSTempLib.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=C:\Users\radma\OneDrive\Рабочий стол\SSSTempLib\SSSTempLib.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Temp
+[Table1]
+SchemaName=
+TableName=DepozitComel
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=352|Library Ref0=740|Note0=55|Code_JEDEC0=101
+[Table2]
+SchemaName=
+TableName=Temp
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=241|Part Number0=123|Library Ref0=105|Library Path0=125|Footprint Path0=126|Footprint Ref0=105|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=553|Price$0=62|Digi-Key Part Number0=160|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=86|HelpURL20=86
+[Table3]
+SchemaName=
+TableName=Temp1
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=259|Part Number0=123|Library Ref0=114|Library Path0=162|Footprint Path0=126|Footprint Ref0=138|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=1078|Price$0=62|Digi-Key Part Number0=179|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=86|HelpURL20=750
+[FieldMap1]
+Options=FieldName=DepozitComel.Part Number|TableNameOnly=DepozitComel|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=DepozitComel.Library Ref|TableNameOnly=DepozitComel|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Temp.Description|TableNameOnly=Temp|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Temp.Part Number|TableNameOnly=Temp|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Temp.Library Ref|TableNameOnly=Temp|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Temp.Library Path|TableNameOnly=Temp|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Temp.Footprint Path|TableNameOnly=Temp|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Temp.Footprint Ref|TableNameOnly=Temp|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Temp.Footprint Ref 2|TableNameOnly=Temp|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Temp.Footprint Path 2|TableNameOnly=Temp|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Temp1.Description|TableNameOnly=Temp1|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Temp1.Part Number|TableNameOnly=Temp1|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Temp1.Library Ref|TableNameOnly=Temp1|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Temp1.Library Path|TableNameOnly=Temp1|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Temp1.Footprint Path|TableNameOnly=Temp1|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Temp1.Footprint Ref|TableNameOnly=Temp1|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Temp1.Footprint Ref 2|TableNameOnly=Temp1|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Temp1.Footprint Path 2|TableNameOnly=Temp1|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
