@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Module
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=419|Part Number0=124|Library Ref0=124|Library Path0=137|Footprint Path0=98|Footprint Ref0=134|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=882|Price$0=53|Digi-Key Part Number0=139|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=136|Comment0=72|HelpURL20=73
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -161,6 +158,9 @@ TableName=Mechanical
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=435|Part Number0=96|Library Ref0=77|Library Path0=103|Footprint Path0=98|Footprint Ref0=96|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=638|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Поле10=56|Comment0=97
 [Table24]
 SchemaName=
 TableName=Memory
@@ -173,18 +173,27 @@ TableName=Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=715|Part Number0=127|Library Ref0=183|Library Path0=137|Footprint Path0=98|Footprint Ref0=132|Footprint Ref 20=116|Footprint Path 20=107|HelpURL0=941|Price$0=579|Digi-Key Part Number0=157|Note0=48|Manufacturer Part Number0=160|Package0=77|Mouser Part Number0=129|Comment0=72|HelpURL20=77
 [Table26]
 SchemaName=
 TableName=Miscellaneous
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=176|Library Ref0=176|Library Path0=137|Footprint Path0=117|Footprint Ref0=138|Description0=568|HelpURL0=804|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
 [Table27]
 SchemaName=
 TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=262|Part Number0=124|Library Ref0=126|Library Path0=84|Footprint Path0=98|Footprint Ref0=126|Footprint Ref 20=137|Footprint Path 20=107|HelpURL0=1300|Price$0=53|Digi-Key Part Number0=161|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=126|HelpURL20=77
 [Table28]
 SchemaName=
 TableName=Optoelectronics
