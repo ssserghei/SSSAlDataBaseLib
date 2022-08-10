@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,25 +19,19 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=ConnPinSockets254
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=501|Part Number0=162|Library Ref0=162|Library Path0=162|Footprint Path0=114|Footprint Ref0=190|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=1078|Price$0=62|Digi-Key Part Number0=179|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=176|Comment0=86|HelpURL20=86
 [Table2]
 SchemaName=
 TableName=Antenne
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=266|Part Number0=241|Library Ref0=90|Library Path0=104|Footprint Path0=114|Footprint Ref0=190|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=578|Price$0=62|Digi-Key Part Number0=160|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=86
 [Table3]
 SchemaName=
 TableName=Battery
@@ -80,9 +74,6 @@ TableName=ConnPinSockets254
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=159|Description0=404|Library Ref0=90|Library Path0=122|Footprint Path0=180|Footprint Ref0=159|Footprint Ref 20=128|Footprint Path 20=180|HelpURL0=942|Digi-Key Part Number0=160|Price$0=62|Note0=55|Manufacturer Part Number0=191|Package0=155|Mouser Part Number0=155|Comment0=148
 [Table10]
 SchemaName=
 TableName=ConnRF
