@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=GeneratorsCrystals
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -128,12 +128,18 @@ TableName=GeneratorsCrystals
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=545|Part Number0=156|Library Ref0=129|Library Path0=90|Footprint Path0=98|Footprint Ref0=156|Footprint Ref20=98|Footprint Path20=104|HelpURL0=874|Price$0=53|Digi-Key Part Number0=192|Note0=48|Manufacturer Part Number0=164|Package0=65|Mouser Part Number0=156|Comment0=106
 [Table19]
 SchemaName=
 TableName=Inductors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=416|Part Number0=134|Library Ref0=86|Library Path0=93|Footprint Path0=111|Footprint Ref0=120|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=1369|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=152|Mouser Part Number0=133|Comment0=263
 [Table20]
 SchemaName=
 TableName=Integrated circuits
@@ -176,6 +182,9 @@ TableName=Miscellaneous
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=176|Library Ref0=176|Library Path0=137|Footprint Path0=117|Footprint Ref0=138|Description0=568|HelpURL0=804|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
 [Table27]
 SchemaName=
 TableName=Module
@@ -212,6 +221,9 @@ TableName=Sensors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=606|Part Number0=132|Library Ref0=96|Library Path0=137|Footprint Path0=117|Footprint Ref0=138|Footprint Ref 20=154|Footprint Path 20=117|HelpURL0=701|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=72|Mouser Part Number0=129|Comment0=72|HelpURL20=541
 [Table33]
 SchemaName=
 TableName=Switch
