@@ -1,1 +1,1 @@
-Библиотеки ввиде баз данных Altium. 
+Altium Designer Database Libraries
