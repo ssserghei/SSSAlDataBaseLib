@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=ConnPinSockets2
+LastFocusedTable=Module
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=332|Part Number0=126|Library Ref0=126|Library Path0=137|Footprint Path0=98|Footprint Ref0=144|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=881|Price$0=53|Digi-Key Part Number0=140|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=134|Comment0=72|HelpURL20=73
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -71,9 +68,6 @@ TableName=ConnPinSockets2
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=106|Description0=189|Library Ref0=77|Library Path0=103|Footprint Path0=132|Footprint Ref0=106|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=528|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
 [Table9]
 SchemaName=
 TableName=ConnPinSockets254
@@ -170,6 +164,9 @@ TableName=Memory
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=497|Part Number0=153|Library Ref0=119|Library Path0=162|Footprint Path0=114|Footprint Ref0=244|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=1208|Price$0=62|Digi-Key Part Number0=167|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=177|Comment0=219
 [Table25]
 SchemaName=
 TableName=Microcontrollers
@@ -188,6 +185,9 @@ TableName=Module
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=703|Part Number0=153|Library Ref0=153|Library Path0=99|Footprint Path0=114|Footprint Ref0=167|Footprint Ref 20=167|Footprint Path 20=126|HelpURL0=1570|Price$0=62|Digi-Key Part Number0=207|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=153|HelpURL20=585
 [Table28]
 SchemaName=
 TableName=Optoelectronics
@@ -230,6 +230,9 @@ TableName=Terminal Block
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=188|Library Ref0=90|Library Path0=122|Footprint Path0=141|Footprint Ref0=188|Description0=253|HelpURL0=718|Digi-Key Part Number0=160|Price$0=122|Note0=115|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=86|HelpURL20=675
 [Table35]
 SchemaName=
 TableName=Transformers
