@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=DepozitComel
 [Table1]
 SchemaName=
 TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=419|Part Number0=126|Library Ref0=126|Library Path0=137|Footprint Path0=98|Footprint Ref0=144|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=881|Price$0=53|Digi-Key Part Number0=153|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=134|Comment0=72|HelpURL20=73
 [Table2]
 SchemaName=
 TableName=Antenne
@@ -95,9 +98,12 @@ UserWhereText=
 [Table13]
 SchemaName=
 TableName=DepozitComel
-Enabled=True
+Enabled=False
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=286|Library Ref0=585|Note0=48|Code_JEDEC0=86
 [Table14]
 SchemaName=
 TableName=Diodes
