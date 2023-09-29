@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Resistors
+LastFocusedTable=Amplifier
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -170,9 +170,6 @@ TableName=Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=891|Part Number0=164|Library Ref0=240|Library Path0=162|Footprint Path0=114|Footprint Ref0=236|Footprint Ref 20=150|Footprint Path 20=126|HelpURL0=1143|Price$0=713|Digi-Key Part Number0=207|Note0=55|Manufacturer Part Number0=191|Package0=100|Mouser Part Number0=160|Comment0=86|HelpURL20=1374
 [Table26]
 SchemaName=
 TableName=Miscellaneous
@@ -191,9 +188,6 @@ TableName=Optoelectronics
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Library Ref0=93|Library Path0=162|Footprint Ref0=105|Footprint Path0=138|Description0=411|HelpURL0=1028|Price$0=62|Digi-Key Part Number0=160|Note0=55|Manufacturer Part Number0=191|Package0=75|MouserPart Number0=151|Comment0=86
 [Table29]
 SchemaName=
 TableName=Potentiometers
@@ -212,9 +206,6 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=163|Library Ref0=110|Library Path0=106|Footprint Path0=142|Footprint Ref0=193|Footprint Ref 20=145|Footprint Path 20=129|Description0=439|HelpURL0=1093|Digi-Key Part Number0=240|Price$0=62|Note0=71|Manufacturer Part Number0=191|Package0=75|Comment0=109|Mouser Part Number0=175
 [Table32]
 SchemaName=
 TableName=Sensors
