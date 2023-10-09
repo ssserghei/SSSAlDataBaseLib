@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Amplifier
+LastFocusedTable=Integrated circuits
 [Table1]
 SchemaName=
 TableName=Amplifier
@@ -80,6 +80,9 @@ TableName=ConnRF
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=104|Description0=376|Library Ref0=90|Library Path0=122|Footprint Path0=180|Footprint Ref0=137|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=711|Digi-Key Part Number0=160|Price$0=62|Note0=55|Manufacturer Part Number0=191|Package0=75|Mouser Part Number0=155|Comment0=86
 [Table11]
 SchemaName=
 TableName=Contact Probes
@@ -140,6 +143,9 @@ TableName=Integrated circuits
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=1660|Part Number0=178|Library Ref0=187|Library Path0=162|Footprint Path0=180|Footprint Ref0=227|Footprint Ref 20=147|Footprint Path 20=126|HelpURL0=1323|Price$0=62|Digi-Key Part Number0=191|Note0=55|Manufacturer Part Number0=191|Package0=97|Mouser Part Number0=323|Comment0=90|HelpURL20=766
 [Table21]
 SchemaName=
 TableName=LED
