@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseL
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,9 +26,6 @@ TableName=Amplifier
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=501|Part Number0=162|Library Ref0=162|Library Path0=162|Footprint Path0=114|Footprint Ref0=190|Footprint Ref 20=117|Footprint Path 20=126|HelpURL0=1078|Price$0=62|Digi-Key Part Number0=197|Note0=55|Manufacturer Part Number0=191|Package0=85|Mouser Part Number0=176|Comment0=86|HelpURL20=86
 [Table2]
 SchemaName=
 TableName=Antenne
