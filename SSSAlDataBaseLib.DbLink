@@ -1,0 +1,399 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=D:\SSSAlDataBaseLib\SssAccesDatbase.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Transistor
+[Table1]
+SchemaName=
+TableName=Amplifier
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=126|Description0=419|Library Ref0=126|Library Path0=137|Footprint Path0=98|Footprint Ref0=150|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=881|Price$0=53|Digi-Key Part Number0=153|Note0=48|Manufacturer Part Number0=160|Package0=66|Mouser Part Number0=134|Comment0=72|HelpURL20=73
+[Table2]
+SchemaName=
+TableName=Antenne
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Battery
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Buttons
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Capacitors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=165|Library Ref0=128|Library Path0=98|Footprint Ref0=165|Footprint Path0=229|Comment0=75|Description0=389|Value0=52|Voltage0=63|Package0=119|Tolerance0=73|MPN0=222|Mouser Part Number0=142|Digi-Key Part Number0=173|HelpURL0=1438|HelpURL20=869|Note0=60|Footprint Ref 20=101|Footprint Path 20=107
+[Table6]
+SchemaName=
+TableName=Conn
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=300|Library Ref0=132|Library Path0=103|Footprint Ref0=197|Footprint Path0=132|Comment0=181|Description0=1204|Footprint Ref 20=133|Footprint Path 20=107|HelpURL0=886|Digi-Key Part Number0=184|Price$0=53|Manufacturer Part Number0=160|Package0=80|Mouser Part Number0=129|HelpURL20=452|Note0=585
+[Table7]
+SchemaName=
+TableName=ConnPinSockets127
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=142|Description0=380|Library Ref0=77|Library Path0=103|Footprint Path0=147|Footprint Ref0=146|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=1485|Digi-Key Part Number0=140|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=123|Mouser Part Number0=129|Comment0=72
+[Table8]
+SchemaName=
+TableName=ConnPinSockets2
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=106|Description0=218|Library Ref0=77|Library Path0=103|Footprint Path0=132|Footprint Ref0=106|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=528|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
+[Table9]
+SchemaName=
+TableName=ConnPinSockets254
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=128|Description0=621|Library Ref0=161|Library Path0=103|Footprint Path0=147|Footprint Ref0=138|Footprint Ref 20=105|Footprint Path 20=147|HelpURL0=762|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=128|Mouser Part Number0=129|Comment0=115
+[Table10]
+SchemaName=
+TableName=ConnRF
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=Contact Probes
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=181|Description0=284|Library Ref0=77|Library Path0=103|Footprint Path0=98|Footprint Ref0=181|Footprint Ref 20=107|Footprint Path 20=107|HelpURL0=919|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=181|Package0=65|Mouser Part Number0=129|Comment0=72|HelpURL20=169
+[Table12]
+SchemaName=
+TableName=DCDC
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=146|Library Ref0=152|Library Path0=137|Footprint Ref0=149|Footprint Path0=98|Comment0=98|Description0=598|Footprint Ref 20=106|Footprint Path 20=107|HelpURL0=867|Price$0=53|Digi-Key Part Number0=170|Note0=48|Manufacturer Part Number0=160|Package0=101|Mouser Part Number0=132|HelpURL20=73
+[Table13]
+SchemaName=
+TableName=DepozitComel
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=Diodes
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=116|Library Ref0=186|Library Path0=83|Footprint Ref0=152|Footprint Path0=117|Comment0=114|Description0=451|HelpURL0=823|Footprint Ref 20=101|Footprint Path 20=117|Digi-Key Part Number0=153|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=93|Mouser Part Number0=129
+[Table15]
+SchemaName=
+TableName=Display
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=Electica
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=Fuses
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=112|Description0=186|Library Ref0=83|Library Path0=117|Footprint Path0=117|Footprint Ref0=92|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=782|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72
+[Table18]
+SchemaName=
+TableName=GeneratorsCrystals
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=Inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=134|Library Ref0=86|Library Path0=93|Footprint Ref0=121|Footprint Path0=111|Comment0=263|Description0=415|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=1371|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=152|Mouser Part Number0=134
+[Table20]
+SchemaName=
+TableName=Integrated circuits
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=136|Description0=1374|Library Ref0=146|Library Path0=137|Footprint Path0=147|Footprint Ref0=173|Footprint Ref 20=115|Footprint Path 20=107|HelpURL0=1074|Price$0=53|Digi-Key Part Number0=148|Note0=48|Manufacturer Part Number0=160|Package0=75|Mouser Part Number0=243|Comment0=72|HelpURL20=625
+[Table21]
+SchemaName=
+TableName=LED
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=155|Description0=654|Library Ref0=155|Library Path0=83|Footprint Ref0=155|Footprint Path0=110|HelpURL0=862|Footprint Ref 20=362|Footprint Path 20=124|Digi-Key Part Number0=216|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=74|Mouser Part Number0=129|Comment0=72
+[Table22]
+SchemaName=
+TableName=Logic
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=127|Description0=454|Library Ref0=127|Library Path0=137|Footprint Path0=98|Footprint Ref0=123|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=921|Price$0=53|Digi-Key Part Number0=183|Note0=48|Manufacturer Part Number0=160|Package0=81|Mouser Part Number0=129|Comment0=72
+[Table23]
+SchemaName=
+TableName=Mechanical
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table24]
+SchemaName=
+TableName=Memory
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table25]
+SchemaName=
+TableName=Microcontrollers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=128|Description0=715|Library Ref0=188|Library Path0=137|Footprint Path0=98|Footprint Ref0=179|Footprint Ref 20=116|Footprint Path 20=107|HelpURL0=941|Price$0=582|Digi-Key Part Number0=160|Note0=48|Manufacturer Part Number0=160|Package0=77|Mouser Part Number0=129|Comment0=72|HelpURL20=1114
+[Table26]
+SchemaName=
+TableName=Miscellaneous
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=177|Library Ref0=177|Library Path0=137|Footprint Path0=117|Footprint Ref0=140|HelpURL0=804|Digi-Key Part Number0=132|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Description0=568|Mouser Part Number0=129|Comment0=72
+[Table27]
+SchemaName=
+TableName=Module
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=123|Description0=719|Library Ref0=139|Library Path0=84|Footprint Path0=98|Footprint Ref0=190|Footprint Ref 20=136|Footprint Path 20=107|HelpURL0=1300|Price$0=53|Digi-Key Part Number0=162|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=125|HelpURL20=495
+[Table28]
+SchemaName=
+TableName=Optoelectronics
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Library Path0=137|Footprint Ref0=113|Footprint Path0=117|HelpURL0=833|Description0=335|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|MouserPart Number0=126|Comment0=72
+[Table29]
+SchemaName=
+TableName=Potentiometers
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table30]
+SchemaName=
+TableName=Relay
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table31]
+SchemaName=
+TableName=Resistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=125|Library Ref0=90|Library Path0=90|Footprint Ref0=149|Footprint Path0=111|Comment0=85|Description0=610|Value0=52|Package0=65|Tolerance0=73|MPN0=127|Mouser Part Number0=137|Digi-Key Part Number0=186|HelpURL0=887|HelpURL20=73|Note0=48|Footprint Ref 20=118|Footprint Path 20=109
+[Table32]
+SchemaName=
+TableName=Sensors
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table33]
+SchemaName=
+TableName=Switch
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=103|Library Ref0=114|Library Path0=97|Footprint Path0=160|Footprint Ref0=105|HelpURL0=586|Description0=336|Digi-Key Part Number0=149|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72
+[Table34]
+SchemaName=
+TableName=Terminal Block
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=146|Library Ref0=77|Library Path0=103|Footprint Path0=118|Footprint Ref0=142|HelpURL0=582|Digi-Key Part Number0=132|Price$0=103|Note0=96|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129|Comment0=72|Description0=199|HelpURL20=556
+[Table35]
+SchemaName=
+TableName=Test Resistors
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table36]
+SchemaName=
+TableName=Transformers
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=111|Description0=271|Library Ref0=111|Library Path0=111|Footprint Path0=111|Footprint Ref0=99|Footprint Ref 20=101|Footprint Path 20=107|HelpURL0=623|Price$0=53|Digi-Key Part Number0=132|Note0=48|Manufacturer Part Number0=160|Package0=65|Comment0=72|Mouser Part Number0=129
+[Table37]
+SchemaName=
+TableName=Transistor
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=118|Library Ref0=127|Library Path0=205|Footprint Ref0=205|Footprint Path0=117|Comment0=97|Description0=683|HelpURL0=803|Footprint Ref 20=101|Footprint Path 20=117|Digi-Key Part Number0=163|Price$0=53|Note0=48|Manufacturer Part Number0=160|Package0=65|Mouser Part Number0=129
+[Table38]
+SchemaName=
+TableName=Tube Vacuum
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table39]
+SchemaName=
+TableName=Varistors
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Amplifier.Part Number|TableNameOnly=Amplifier|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Antenne.Part Number|TableNameOnly=Antenne|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Battery.Part Number|TableNameOnly=Battery|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Buttons.Part Number|TableNameOnly=Buttons|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors.Part Number|TableNameOnly=Capacitors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Conn.Part Number|TableNameOnly=Conn|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=ConnPinSockets127.Part Number|TableNameOnly=ConnPinSockets127|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=ConnPinSockets2.Part Number|TableNameOnly=ConnPinSockets2|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=ConnPinSockets254.Part Number|TableNameOnly=ConnPinSockets254|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=ConnRF.Part Number|TableNameOnly=ConnRF|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Contact Probes.Part Number|TableNameOnly=Contact Probes|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=DCDC.Part Number|TableNameOnly=DCDC|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=DepozitComel.Part Number|TableNameOnly=DepozitComel|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Diodes.Part Number|TableNameOnly=Diodes|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Display.Part Number|TableNameOnly=Display|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Electica.Part Number|TableNameOnly=Electica|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Fuses.Part Number|TableNameOnly=Fuses|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=GeneratorsCrystals.Part Number|TableNameOnly=GeneratorsCrystals|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Inductors.Part Number|TableNameOnly=Inductors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Integrated circuits.Part Number|TableNameOnly=Integrated circuits|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=LED.Part Number|TableNameOnly=LED|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Logic.Part Number|TableNameOnly=Logic|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Mechanical.Part Number|TableNameOnly=Mechanical|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Memory.Part Number|TableNameOnly=Memory|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Microcontrollers.Part Number|TableNameOnly=Microcontrollers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Miscellaneous.Part Number|TableNameOnly=Miscellaneous|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Module.Part Number|TableNameOnly=Module|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Optoelectronics.Part Number|TableNameOnly=Optoelectronics|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Potentiometers.Part Number|TableNameOnly=Potentiometers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Relay.Part Number|TableNameOnly=Relay|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Resistors.Part Number|TableNameOnly=Resistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Sensors.Part Number|TableNameOnly=Sensors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Switch.Part Number|TableNameOnly=Switch|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Terminal Block.Part Number|TableNameOnly=Terminal Block|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Test Resistors.Part Number|TableNameOnly=Test Resistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Transformers.Part Number|TableNameOnly=Transformers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Transistor.Part Number|TableNameOnly=Transistor|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Tube Vacuum.Part Number|TableNameOnly=Tube Vacuum|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Varistors.Part Number|TableNameOnly=Varistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
