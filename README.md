@@ -14,13 +14,7 @@ Mandatory symbol parameters:
 Value
 Package
 Tolerance
-Silk
-
-Silk parameter (must be transferred to PCB) is mandatory for:
-Connectors
-Jumpers
-LEDs
-Test Points (TP)
+Silk for: Connectors, Jumpers, LEDs, Test Points (TP)  (must be transferred to PCB)
 
 Comment field for passives (format):
 R 0402 100k 1%
