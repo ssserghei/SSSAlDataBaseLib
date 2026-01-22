@@ -39,7 +39,7 @@ IPC_Standard: IPC-7351
 Density_Level: N
 Silk
 
-Silk parameter (must be transferred to PCB) is mandatory for:
+.Silk parameter (must be transferred to PCB) is mandatory for:
 Connectors
 Jumpers
 LEDs
